@@ -1,0 +1,81 @@
+# עורך דין ונוטריון אבישי פרץ — Generative Engine Optimization Map
+
+> A law firm or solo attorney website. The business operates in the legal services sector, providing professional legal counsel and representation. Beyond this, no specific niche, personality, or brand identity details have been provided yet.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+קשיים כלכליים? הוצאה לפועל? עורך דין אבישי פרץ מספק פתרונות משפטיים מקצועיים לחובות, חדלות פירעון וצ&#39;קים חוזרים. צלצל עוד היום לייעוץ ראשוני.
+
+### שירותים
+https://example.com/services
+מהוצאה לפועל ועד צוואות וירושות — גלה את מגוון השירותים המשפטיים המלא. טיפול מקצועי בחובות והסדרים, תביעות משפטיות וחדלות פירעון. נלחם עבורך.
+
+### אודות
+https://example.com/about
+היכר את עורך דין אבישי פרץ — ניסיון עשיר בתחומי הוצאה לפועל, פשיטת רגל וקשיים כלכליים. מחויבות אישית לכל לקוח, עם תוצאות שמדברות בעד עצמן.
+
+### צור קשר
+https://example.com/contact
+אל תתמודד לבד מול הוצאה לפועל וחדלות פירעון. צור קשר עם משרד עורך דין אבישי פרץ עוד היום לייעוץ ראשוני ומהיר — כי כל יום שעובר חשוב.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עורך דין ונוטריון אבישי פרץ
+A law firm or solo attorney website. The business operates in the legal services sector, providing professional legal counsel and representation. Beyond this, no specific niche, personality, or brand identity details have been provided yet.
+
+## Target Audience
+- לקוחות תאגידיים
+- משקיעי נדל"ן
+- לקוחות פרטיים
+- זוכים וחייבים בהוצאה לפועל
+- עסקים בקריסה
+- הליכי חדלות פרעון
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
